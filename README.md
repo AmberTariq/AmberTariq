@@ -26,8 +26,8 @@ Computer Science Undergraduate at **NED University of Engineering & Technology**
 ### 🚀 Featured Projects
 
 - **[Orbital Duel](https://orbital-duel-game.vercel.app)** — Fast-paced 2D arcade space combat game built with HTML5 Canvas and procedural Web Audio API, prototyped using Google AI Studio.
-- **Synk AI Agent** — Containerized companion application leveraging Google AI Studio and serverless Cloud Run deployment.
-- **BaristaPulse Coffee AI Agent** — Interactive coffee AI agent utilizing Google Gemini API for semantic NLP mapping.
+- **[Synk AI Agent](https://synk-ai-agent-552810686014.asia-southeast1.run.app/)** — Containerized companion application leveraging Google AI Studio and serverless Cloud Run deployment.
+- **[BaristaPulse Coffee AI Agent](https://baristapulse-agent-bguggitkbnfb4iz5d5jwop.streamlit.app/)** — Interactive coffee AI agent utilizing Google Gemini API for semantic NLP mapping.
 
 ---
 
