@@ -1,5 +1,19 @@
-# 💫 About Me:
-I am a Computer Science undergraduate at NED University exploring the intersection of Generative AI, interactive web applications, and cybersecurity. Currently, I focus on building agentic AI workflows, voice-to-text tools, and secure client-side web applications. Passionate about prompt engineering, UI/UX design, and AI orchestration, I actively seek opportunities to collaborate on open-source AI projects, creative digital tools, and security awareness frameworks. Feel free to reach out to me regarding Generative AI tools, C++, HTML5 Canvas development, cybersecurity fundamentals, or presentation and document design—or ask me about how I synthesized an entire retro arcade game soundtrack using pure JavaScript with zero external audio files!
+# 💫 About Me
+
+I'm a second-year Computer Science student at NED University, Karachi, interested in how people and AI systems work together. I'm especially drawn to conversational AI and human–AI interaction, and I'm learning how to build AI tools that are secure, private and dependable.
+
+## 🛠️ What I've Built
+- **Dastavez AI**: an Urdu and English document localization tool with voice dictation, built with Google AI Studio and the Gemini API
+- **Synk AI Agent App**: a full-stack AI web app using Firebase and the Gemini API
+- **Secure Digital Diary**: a C++ project that began as an OOP course assignment and was later rebuilt with stronger encryption
+
+## 📚 Currently Learning
+Security fundamentals, networking, and distributed systems.
+
+## 🤝 Open To
+Collaborating on AI tools and learning from people working in AI, security and systems.
+
+Ask me how I synthesized a retro arcade game soundtrack in pure JavaScript, with zero audio files!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amber._tariq02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amber-tariq-247700384/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tariqamber002@gmail.com) 
